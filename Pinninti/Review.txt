@@ -1,0 +1,2 @@
+I had to check & read the whole code in front of the team members in the meeting. 
+In spite of ambiguities, few errors and hidden assumption, I clearly explained the code to everyone. 
