@@ -1,2 +1,1 @@
-I had to check & read the whole code in front of the team members in the meeting. 
-In spite of ambiguities, few errors and hidden assumption, I clearly explained the code to everyone. 
+Being a manager, the responsibility of accomplishment of the code of review was on me. I provided a guideline to all the members. I conducted meetings. I thoroughly examined that whether all the members were working appropriately or not. 
