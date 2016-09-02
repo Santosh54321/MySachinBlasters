@@ -1,0 +1,2 @@
+I noted down each and every problem in the code when it was reviewed. During the meeting, I made a connection with the code. 
+I maintained the documentary of every meeting. By using my notes, the author was able to make corrections in the code. 
