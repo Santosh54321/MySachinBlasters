@@ -1,1 +1,4 @@
-I was performing the role of mediator.  So, my role was very important for the successful code review. I selected the team of reviewers. I assigned the duties to all the members that who will be the author, scribe, and reader. I fixed the time of meetings that were held for the code review. 
+I was performing the role of mediator.  
+So, my role was very important for the successful code review. I selected the team of reviewers. 
+I assigned the duties to all the members that who will be the author, scribe, and reader. 
+I fixed the time of meetings that were held for the code review. 
