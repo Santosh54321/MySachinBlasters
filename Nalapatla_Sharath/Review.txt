@@ -1,0 +1,5 @@
+Being an author of the code that was required to be reviewed, I was assigned huge accountability. 
+I analyzed the requirements for code and wrote it. 
+I confirmed the mediator on a timely basis that within what time the code will be complete. According to my direction, the mediator was able to set the time for the meeting. 
+While reader was reviewing the code, I answered various questions that arise in team member’s mind listening to it. 
+We found some issues in the code. Scribe noted that issues and provided a list to me. I made corrections in it after the meeting.
